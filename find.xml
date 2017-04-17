@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'myFirstHttp'" />
-    <option name="defaultScopeName" value="Project 'myFirstHttp'" />
-    <option name="SEARCH_SCOPE" value="Project 'myFirstHttp'" />
+    <option name="customScope" value="File 'C:\projects\Android\Connecttogoogledrive\app\src\main\java\il\net\yagur\connecttogoogledrive\MainActivity.java'" />
+    <option name="defaultScopeName" value="File 'C:\projects\Android\Connecttogoogledrive\app\src\main\java\il\net\yagur\connecttogoogledrive\MainActivity.java'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\projects\Android\Connecttogoogledrive\app\src\main\java\il\net\yagur\connecttogoogledrive\MainActivity.java'" />
   </component>
 </application>

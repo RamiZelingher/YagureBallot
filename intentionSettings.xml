@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Groovy/Declaration/Groovy Introduce local variable" />
     <ignoreAction name="Android/Override Resource in Other Configuration..." />
+    <ignoreAction name="Java/Comments/Replace with Block Comment" />
   </component>
 </application>

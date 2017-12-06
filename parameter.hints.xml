@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="android.os.AsyncTask.publishProgress(values)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
